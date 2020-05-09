@@ -7,6 +7,8 @@ It also ouptut the cycled list in order,
 Example: 
 
 
-['abc', 'hij', 'khl', 'cde', 'jba', 'efg', 'ghk', 'ljh'] YES!
+<b>Input array</b>: ['abc', 'hij', 'khl', 'cde', 'jba', 'efg', 'ghk', 'ljh'] 
 
+Output: 
+['abc', 'hij', 'khl', 'cde', 'jba', 'efg', 'ghk', 'ljh'] YES!
 ['cde', 'efg', 'ghk', 'khl', 'ljh', 'hij', 'jba', 'abc']
