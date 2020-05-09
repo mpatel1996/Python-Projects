@@ -7,8 +7,8 @@ It also ouptut the cycled list in order,
 Example: 
 
 
-<b>Input array</b>: ['abc', 'hij', 'khl', 'cde', 'jba', 'efg', 'ghk', 'ljh'] 
+<b>Input array:</b> ['abc', 'hij', 'khl', 'cde', 'jba', 'efg', 'ghk', 'ljh'] 
 
-Output: 
+<b>Output:</b> 
 ['abc', 'hij', 'khl', 'cde', 'jba', 'efg', 'ghk', 'ljh'] YES!
 ['cde', 'efg', 'ghk', 'khl', 'ljh', 'hij', 'jba', 'abc']
