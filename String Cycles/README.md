@@ -10,5 +10,7 @@ Example:
 <b>Input array:</b> ['abc', 'hij', 'khl', 'cde', 'jba', 'efg', 'ghk', 'ljh'] 
 
 <b>Output:</b> 
+
 ['abc', 'hij', 'khl', 'cde', 'jba', 'efg', 'ghk', 'ljh'] YES!
+
 ['cde', 'efg', 'ghk', 'khl', 'ljh', 'hij', 'jba', 'abc']
