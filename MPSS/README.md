@@ -1,2 +1,3 @@
-# Python-Projects
-place to store all my python projects
+# MPSS
+
+Returns the MPSS of the array. 
