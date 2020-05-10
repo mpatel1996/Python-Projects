@@ -11,5 +11,6 @@ Example:
 
 <b>Output:</b> 
 
-['abc', 'hij', 'khl', 'cde', 'jba', 'efg', 'ghk', 'ljh'] YES! <br ['cde', 'efg', 'ghk', 'khl', 'ljh', 'hij', 'jba', 'abc'] />
+['abc', 'hij', 'khl', 'cde', 'jba', 'efg', 'ghk', 'ljh'] YES! <br />
+['cde', 'efg', 'ghk', 'khl', 'ljh', 'hij', 'jba', 'abc'] 
 
